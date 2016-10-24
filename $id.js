@@ -5,7 +5,7 @@ function $id(s){
  return i?(m[i]||(m[i]=document.getElementById(i))):null;
 }
 
-$id.%24mem=Object.create(null);
+$id.mem=Object.create(null);
 	
 /*
 console.dir($id('zzz'));
