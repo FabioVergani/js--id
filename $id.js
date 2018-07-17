@@ -12,3 +12,6 @@ console.dir($id('zzz'));
 console.dir($id('zzz'));
 console.dir($id('z'));
 */
+
+
+$id=x=>d.getElementById(x);
